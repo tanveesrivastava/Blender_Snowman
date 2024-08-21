@@ -27,8 +27,9 @@ This project involves the creation and animation of a snowman scene using Blende
 
 ### Modeling Techniques
 
-- **Snowman Body**: The snowman's body was created with icospheres and modified using the Displace object modifier to make it lumpy and bumpy, simulating the appearance of a real snowman. A subdivision modifier was also applied to add smoothness.
-<img src="Images/Body.png" alt="Snowman" width="300"/>
+- **Snowman Body**: The snowman's body was created with icospheres and modified using the Displace object modifier to make it lumpy and bumpy, simulating the appearance of a real snowman. A subdivision modifier was also applied to add smoothness. To change the texture, procedural texture type as ‘Cloud’ was used.
+
+<img src="Images/Body.png" alt="Snowman" width="200"/>
 
 - **Hat**: The hat was modeled from a cylinder. The bottom half was scaled down to give a tapered effect, and the brim was created by extruding and scaling the bottom face.
 
