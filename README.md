@@ -47,6 +47,7 @@ the bottom half of the hat to scale it down to make it feel more realistic and t
 <img src="Images/Mountain.png" alt="Snowman" width="500"/>
 <img src="Images/Terrain.png" alt="Snowman" width="500"/>
 <img src="Images/Terain 2.png" alt="Snowman" width="500"/>
+<img src="Images/Terrain 3.png" alt="Snowman" width="500"/>
 
 - **Snowfall**: The particle system was used to create falling snow, and additional snow was added to the snowman’s hat to enhance realism.
 
