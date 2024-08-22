@@ -51,6 +51,10 @@ the bottom half of the hat to scale it down to make it feel more realistic and t
 
 - **Snowfall**: The particle system was used to create falling snow, and additional snow was added to the snowman’s hat to enhance realism.
 
+<img src="Images/Snowfall.png" alt="Snowman" width="500"/>
+<img src="Images/Snowfall3.png" alt="Snowman" width="500"/>
+<img src="Images/Snowfall 2.png" alt="Snowman" width="500"/>
+
 ### Final Render
 
 - The final scene was rendered with the following details:
