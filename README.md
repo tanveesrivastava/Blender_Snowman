@@ -43,7 +43,7 @@ the bottom half of the hat to scale it down to make it feel more realistic and t
 - **Arms**: The snowman's arms were created using a plane and modified with the Skin, Subdivision, and Displace modifiers for a realistic appearance.
 <img src="Images/Arm.png" alt="Snowman" width="500"/>
 
-- **Mountains and Terrain**: A plane was subdivided and edited using proportional editing to form the terrain and mountains. The RealSnow add-on was then used to add snow to the landscape.
+- **Mountains and Terrain**: 9.	The below plane over which proportional editing was used to give it an effect of terrain. I divided the plane into sub-divisions and then used proportional editing to carve out terrain and mountains and then used the RealSnow add-on to give the snowy effect.
 
 - **Snowfall**: The particle system was used to create falling snow, and additional snow was added to the snowman’s hat to enhance realism.
 
