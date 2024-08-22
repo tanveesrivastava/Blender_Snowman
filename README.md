@@ -41,6 +41,7 @@ the bottom half of the hat to scale it down to make it feel more realistic and t
 
 
 - **Arms**: The snowman's arms were created using a plane and modified with the Skin, Subdivision, and Displace modifiers for a realistic appearance.
+<img src="Images/Arm.png" alt="Snowman" width="500"/>
 
 - **Mountains and Terrain**: A plane was subdivided and edited using proportional editing to form the terrain and mountains. The RealSnow add-on was then used to add snow to the landscape.
 
