@@ -27,14 +27,18 @@ This project involves the creation and animation of a snowman scene using Blende
 
 ### Modeling Techniques
 
-- **Snowman Body**: The snowman's body was created with icospheres and modified using the Displace object modifier to make it lumpy and bumpy, simulating the appearance of a real snowman. A subdivision modifier was also applied to add smoothness. To change the texture, procedural texture type as ‘Cloud’ was used.
+- **Snowman Body**: The snowman's body was created with icospheres and modified using the Displace object modifier to make it lumpy and bumpy, simulating the appearance of a real snowman. A subdivision modifier was also applied to add smoothness. To change the texture, a procedural texture type as ‘Cloud’ was used.
 
 <img src="Images/Body.png" alt="Snowman" width="200"/>
 
-- **Hat**: The hat was modeled from a cylinder. The bottom half was scaled down to give a tapered effect, and the brim was created by extruding and scaling the bottom face.
+- **Hat**: A cylinder was used to make the hat. After puƫting the cylinder at the top of the face, I went into wireframe mode and selected 
+the bottom half of the hat to scale it down to make it feel more realistic and tapered. Then, to add the brim of the hat, I used ‘e’ key to extrude and then ‘s’ to scale, resulting in the brim.
 <img src="Images/Hat.png" alt="Snowman" width="500"/>
 
-- **Scarf**: A cloth modifier was used for the scarf, with collision settings applied to ensure it interacts realistically with the snowman. Friction was set to 50 to stop movement upon collision.
+- **Scarf**: - A Cloth modifier was used to create the scarf of the snowman. Collison from ‘Physics’ was used so that when the cloth comes down, it has to collide with the object. To stop it from moving after it has collided with the object, I added friction = 50.
+<img src="Images/Scarf1.png" alt="Snowman" width="500"/>
+<img src="Images/Scarf2.png" alt="Snowman" width="400"/>
+
 
 - **Arms**: The snowman's arms were created using a plane and modified with the Skin, Subdivision, and Displace modifiers for a realistic appearance.
 
