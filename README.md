@@ -32,6 +32,7 @@ This project involves the creation and animation of a snowman scene using Blende
 <img src="Images/Body.png" alt="Snowman" width="200"/>
 
 - **Hat**: The hat was modeled from a cylinder. The bottom half was scaled down to give a tapered effect, and the brim was created by extruding and scaling the bottom face.
+<img src="Images/Hat.png" alt="Snowman" width="200"/>
 
 - **Scarf**: A cloth modifier was used for the scarf, with collision settings applied to ensure it interacts realistically with the snowman. Friction was set to 50 to stop movement upon collision.
 
