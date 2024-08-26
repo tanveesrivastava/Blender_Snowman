@@ -1,11 +1,6 @@
 
 # Snowman Animation Project
-
-[![Watch the video]](Snowman_Animation.mp4)
-
 https://github.com/user-attachments/assets/96b3b6f0-8056-4aef-8b82-671645175839
-
-
 
 This project involves the creation and animation of a snowman scene using Blender. The goal was to design a winter-themed visual by constructing a snowman, adding a scarf, simulating falling snow, and positioning the scene against a backdrop of mountains. 
 
