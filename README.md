@@ -62,6 +62,7 @@ the bottom half of the hat to scale it down to make it feel more realistic and t
   - Dimensions: Various resolutions (up to 2550x2182)
   - Color: Truecolor with alpha
   - Interlaced: Yes
+<img src="Images/SnowMan_Image.png" alt="Snowman" width="500"/>
 
 ## Highlights
 
